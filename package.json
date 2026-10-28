@@ -1,0 +1,9 @@
+{
+  "name": "l4tpl",
+  "version": "1.0.0",
+  "description": "probe template",
+  "type": "module",
+  "dependencies": {
+    "l4helper": "git+https://github.com/FLCN-16-AGENT/l4helper.git"
+  }
+}
